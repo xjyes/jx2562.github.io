@@ -1,0 +1,12 @@
+---
+title: "projects"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Jingyi's awesome website
+
+Here are the projects finished.

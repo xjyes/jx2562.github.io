@@ -1,0 +1,16 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - text: "Projects"
+      herf: Projects.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<you@youremail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/xjyes/
+output:
+  html_document:
+    theme: cerulean

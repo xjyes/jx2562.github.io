@@ -1,0 +1,12 @@
+---
+title: "About"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Jingyi's awesome website
+
+It's awesome to go to another page.
